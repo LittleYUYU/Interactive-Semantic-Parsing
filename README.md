@@ -15,6 +15,10 @@ Data source: [Train](https://www.blaseur.com/papers/chi16-ifttt.pdf) and [Test](
 ## 3. Code
 All source code is in `cd code/Hierarchical-SP`.
 
+Requirements:
+- Python 2.7
+- Tensorflow >= 1.4.0
+
 ### 3.1 Agent training/testing
 To train the HRL agent:
 ```
