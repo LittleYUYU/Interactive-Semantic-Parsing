@@ -10,7 +10,7 @@ The processed dataset can be found:
 
 Data format: [Python Pickle](https://docs.python.org/2/library/pickle.html) files. Please open with `pickle.load(open(filename))`.
 
-Data source: [Train](https://www.blaseur.com/papers/chi16-ifttt.pdf) and [Test](https://www.microsoft.com/en-us/research/project/language-to-code/).
+Data source: [Training set from (Ur et al., CHI'16)](https://www.blaseur.com/papers/chi16-ifttt.pdf) and [Test set from (Quirk et al., ACL'15)](https://www.microsoft.com/en-us/research/project/language-to-code/).
 
 ## 3. Code
 All source code is in `cd code/Hierarchical-SP`.
