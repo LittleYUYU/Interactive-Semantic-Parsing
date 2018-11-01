@@ -1,7 +1,7 @@
 # Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning
 
 ## 1. Introduction
-This repository contains source code and dataset for paper "[Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1808.06740.pdf)". Please refer to Table 1 in the paper for an example.
+This repository contains source code and dataset for paper "[Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1808.06740.pdf)" (AAAI'19). Please refer to Table 1 in the paper for an example.
 
 ## 2. Dataset
 The processed dataset can be found:
