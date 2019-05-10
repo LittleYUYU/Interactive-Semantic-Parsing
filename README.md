@@ -49,7 +49,7 @@ Please kindly cite the following paper if you use the code or the dataset in thi
 @article{yao2018interactive,
   title={Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning},
   author={Yao, Ziyu and Li, Xiujun and Gao, Jianfeng and Sadler, Brian and Sun, Huan},
-  journal={arXiv preprint arXiv:1808.06740},
-  year={2018}
+  journal={AAAI Conference on Artificial Intelligence, arXiv:1808.06740},
+  year={2019}
 }
 ```
