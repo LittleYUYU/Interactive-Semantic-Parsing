@@ -46,10 +46,12 @@ The scripts for [PPDB paraphrasing](code/Hierarchical-SP/ppdb.py) and [collectin
 ## 4. Citation
 Please kindly cite the following paper if you use the code or the dataset in this repo:
 ```
-@article{yao2018interactive,
+@inproceedings{yao2019interactive,
   title={Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning},
   author={Yao, Ziyu and Li, Xiujun and Gao, Jianfeng and Sadler, Brian and Sun, Huan},
-  journal={AAAI Conference on Artificial Intelligence, arXiv:1808.06740},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={2547--2554},
   year={2019}
 }
 ```
