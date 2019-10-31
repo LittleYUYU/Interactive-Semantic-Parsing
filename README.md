@@ -1,5 +1,8 @@
 # Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning
 
+**Update 10/31/2019:** As a follow-up work, we developed a more general interactive semantic parsing framework called *"Model-based Interactive Semantic Parser (MISP)"*. The work has been accepted to EMNLP'19. Please don't hesitate to check out our [paper](https://arxiv.org/pdf/1910.05389.pdf) and [code](https://github.com/sunlab-osu/MISP)!
+
+
 ## 1. Introduction
 This repository contains source code and dataset for paper "[Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1808.06740.pdf)" (AAAI'19). Please refer to Table 1 in the paper for an example.
 
